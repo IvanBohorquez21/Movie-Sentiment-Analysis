@@ -1,5 +1,6 @@
+streamlit>=1.31.0
 pandas
-streamlit
 scikit-learn
 joblib
 nltk
+altair>=5.0.0
