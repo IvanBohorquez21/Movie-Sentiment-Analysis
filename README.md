@@ -38,8 +38,8 @@ To achieve the current accuracy, a rigorous preprocessing pipeline was implement
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/YourUsername/Your-Repository-Name.git](https://github.com/YourUsername/Your-Repository-Name.git)
-    cd Your-Repository-Name
+        git clone https://github.com/IvanBohorquez21/Movie-Sentiment-Analysis.git
+        cd Movie-Sentiment-Analysis
     ```
 
 2.  **Create and activate a virtual environment:**
