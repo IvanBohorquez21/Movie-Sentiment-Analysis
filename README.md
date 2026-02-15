@@ -4,6 +4,7 @@ This project uses **Natural Language Processing (NLP)** to classify IMDb movie r
 
 ## 📱 App Preview
 ![App Screenshot](img/app.png)
+> **Try it yourself:** [🚀 Live Demo on Streamlit Cloud](https://ivan-movie-sentiment.streamlit.app)
 
 ## 🚀 Features
 
