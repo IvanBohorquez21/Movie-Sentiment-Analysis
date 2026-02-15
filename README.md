@@ -2,6 +2,9 @@
 
 This project uses **Natural Language Processing (NLP)** to classify IMDb movie reviews as either **positive** or **negative**. The model was trained on a dataset of 50,000 records, achieving an optimal balance between processing speed and accuracy.
 
+## 📱 App Preview
+![App Screenshot](img/app.png)
+
 ## 🚀 Features
 
 * **Model Accuracy:** 88.63%
